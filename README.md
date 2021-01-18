@@ -7,7 +7,7 @@ The idea behind this change is to prevent the assumption of a default currency, 
 - [PR](https://github.com/RubyMoney/money/pull/868)
 
 ## [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers/)
-### Fix validate_absence_of failing for array columns
+### Fix `validate_absence_of` failing for array columns
 - [Issue](https://github.com/thoughtbot/shoulda-matchers/issues/1240)
 - [PR](https://github.com/thoughtbot/shoulda-matchers/pull/1383)
 ### Fix RuboCop offenses
