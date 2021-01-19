@@ -2,7 +2,7 @@
 ## [money](https://github.com/RubyMoney/money)
 
 ### Set `Money.default_currency` to `nil`
-The idea behind this change is to prevent the assumption of a default currency, which can be dangerous in multi-currency applications.
+The idea behind this change is to prevent the assumption of a default currency being present.
 - [Issue](https://github.com/RubyMoney/money/issues/855)
 - [PR](https://github.com/RubyMoney/money/pull/868)
 
